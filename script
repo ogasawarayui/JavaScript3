@@ -1,0 +1,31 @@
+/*Q1 変数にNumber型を代入してconsole.log()で表示させてください。*/
+//variableNumberはNumber型になる
+var variableNumber = 1234;
+console.log(variableNumber);
+/*Q2 変数にString型を代入してconsole.log()で表示させてください。*/
+// variableTextはString型になる
+var variableText = "Text";
+console.log(variableText);
+/*Q3 変数にBoolean型を代入してconsole.log()で表示させてください。*/
+// variableBooleanはBoolean型になる
+var variableBoolean = true;
+console.log(variableBoolean);
+/*Q4 10と20を足した結果を変数に代入してconsole.log()で表示させてください。*/
+// addNumberは2になる
+/*var addNumber = 1 + 1;*/
+var addNumber = 10 + 20;
+console.log(variableNumber);
+/*Q5 20から10を引いた結果を変数に代入してconsole.log()で表示させてください。*/
+var addNumber = 20 - 10;
+console.log(variableNumber);
+/*Q6 50へ2を掛けた結果を変数に代入してconsole.log()で表示させてください。*/
+var addNumber = 50 * 2;
+console.log(variableNumber);
+/*Q7 20を2で割った結果を変数に代入してconsole.log()で表示させてください。*/
+var addNumber = 20 / 2;
+console.log(variableNumber);
+/*Q8 12を34を結合させた結果を変数に代入してconsole.log()で表示させてください。*/
+// combinationTextは"JavaScript"になる
+/*var combinationText = "Java" + "Script";*/
+var combinationText = "12" + "34";
+console.log(variableText);
