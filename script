@@ -11,21 +11,17 @@ console.log(variableText);
 var variableBoolean = true;
 console.log(variableBoolean);
 /*Q4 10と20を足した結果を変数に代入してconsole.log()で表示させてください。*/
-// addNumberは2になる
-/*var addNumber = 1 + 1;*/
 var addNumber = 10 + 20;
-console.log(variableNumber);
+console.log(addNumber);
 /*Q5 20から10を引いた結果を変数に代入してconsole.log()で表示させてください。*/
 var addNumber = 20 - 10;
-console.log(variableNumber);
+console.log(addNumber);
 /*Q6 50へ2を掛けた結果を変数に代入してconsole.log()で表示させてください。*/
 var addNumber = 50 * 2;
-console.log(variableNumber);
+console.log(addNumber);
 /*Q7 20を2で割った結果を変数に代入してconsole.log()で表示させてください。*/
 var addNumber = 20 / 2;
-console.log(variableNumber);
+console.log(addNumber);
 /*Q8 12を34を結合させた結果を変数に代入してconsole.log()で表示させてください。*/
-// combinationTextは"JavaScript"になる
-/*var combinationText = "Java" + "Script";*/
 var combinationText = "12" + "34";
-console.log(variableText);
+console.log(combinationText);
